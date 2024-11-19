@@ -37,12 +37,6 @@ I am a second-year **Computer Science and Engineering (CSE)** student at **MNIT 
 	
 ---
 
-## Achievements
-- **Hackathon**: 2nd place in MNIT’s annual hackathon (2023).
-- **Competitive Programming**: Rating of 1500+ on Codeforces.
-
----
-
 ## Contact
 
 - **Email**: [2023ucp1683@example.com](mailto:2023ucp1683@example.com)
