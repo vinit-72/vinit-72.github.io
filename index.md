@@ -13,6 +13,7 @@ I am a second-year **Computer Science and Engineering (CSE)** student at **MNIT 
 | **12th (CBSE)**             | **Nymph Academy**                               | 2022 - 2023        | 81%      |
 | **10th (CBSE)**             | **Nymph Academy**                              | 2020 - 2021       | 94%      |
 
+![MNIT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN00x4UQpbz15uOhiynQCELC23KSR_WbSkNA&s)
 ---
 
 ## Skills
@@ -31,9 +32,9 @@ I am a second-year **Computer Science and Engineering (CSE)** student at **MNIT 
 - **Web Development**: Passionate about building responsive and modern websites.
 ### Hobbies
 
-	-playing Video Games
-	-Listening Music
-	-Watching Movies
+- playing Video Games
+- Listening Music
+- Watching Movies
 	
 ---
 
@@ -51,6 +52,5 @@ I am a second-year **Computer Science and Engineering (CSE)** student at **MNIT 
 
 ---
 
-![MNIT](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fpmcboletopiyamilancircle%2Fposts%2Fvltc-mnit-mnitjaipur-engineering-nitjaipur-nit-life%2F792308516238821%2F&psig=AOvVaw1U8zveEjZ163Xi4qW5vuQW&ust=1732094189580000&source=images&opi=89978449)
 
 
