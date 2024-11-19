@@ -7,21 +7,20 @@ I am a second-year **Computer Science and Engineering (CSE)** student at **MNIT 
 
 ## Education
 
-| **Degree**                  | **Institution**                              | **Year**     | **CGPA** |
-|----------------------------|----------------------------------------------|--------------|----------|
-| **B.Tech in CSE**           | **MNIT Jaipur**                             | 2022 - Present | 7.3/10   |
-| **12th (CBSE)**             | **Nymph Academy**                               | 2022 - 2023        | 81%      |
-| **10th (CBSE)**             | **Nymph Academy**                              | 2020 - 2021       | 94%      |
+| **Degree**                  | **Institution**  | **Year**       | **CGPA** |
+|----------------------------|-------------------|----------------|----------|
+| **B.Tech in CSE**           | **MNIT Jaipur**  | 2022 - Present | 7.3/10   |
+| **12th (CBSE)**             | **Nymph Academy**| 2022 - 2023    | 81%      |
+| **10th (CBSE)**             | **Nymph Academy**| 2020 - 2021    | 94%      |
 
 ![MNIT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN00x4UQpbz15uOhiynQCELC23KSR_WbSkNA&s)
 ---
 
 ## Skills
 
-- **Languages**: Python, Java, C++, JavaScript
-- **Web Development**: HTML, CSS, React, Node.js
-- **Database**: MySQL, MongoDB
-- **Tools**: Git, GitHub, VS Code, Eclipse
+- **Languages**: Python, C, C++, JavaScript
+- **Web Development**: HTML, CSS, JavaScript
+- **Tools**: Git, GitHub, VS Code,Latex
 - **Other**: Data Structures & Algorithms, Web Development
 
 ---
@@ -46,9 +45,9 @@ I am a second-year **Computer Science and Engineering (CSE)** student at **MNIT 
 
 ## Contact
 
-- **Email**: [yourname@example.com](mailto:yourname@example.com)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Email**: [2023ucp1683@example.com](mailto:2023ucp1683@example.com)
+- **Phone No**:0123456789
+- **GitHub**: [vinit-72](https://github.com/vinit-72)
 
 ---
 
